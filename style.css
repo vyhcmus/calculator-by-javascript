@@ -51,24 +51,6 @@ body {
     font-size: 40px;
     font-weight: bold;
 }
-<<<<<<< HEAD
-#output-4 {
-=======
-#output-3 {
->>>>>>> 5104e50250bf95cc2e9680f6a27c294ff27915b4
-    text-align: right;
-    height: 60px;
-    margin: 20px 20px;
-    padding-top: 20px;
-    font-size: 40px;
-    font-weight: bold;
-<<<<<<< HEAD
-=======
-     background-color:cadetblue;
-      box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19);
-    
->>>>>>> 5104e50250bf95cc2e9680f6a27c294ff27915b4
-}
 #keyboard {
     height: 500px;
 }
